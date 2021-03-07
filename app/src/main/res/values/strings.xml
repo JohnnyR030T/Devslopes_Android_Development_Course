@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DevProfile</string>
     <string name="devslopes">Devslopes</string>
+    <string name="inbox_button">Inbox Button</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="favorites_button">Favorites Button</string>
 </resources>
